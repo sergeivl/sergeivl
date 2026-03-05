@@ -1,5 +1,4 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Backend-Focused+Full+Stack+Developer" alt="Typing SVG" />
-
 # 🛠 Main tech stack
 
 ## Languages
